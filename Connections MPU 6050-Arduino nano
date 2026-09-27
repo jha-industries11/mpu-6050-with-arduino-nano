@@ -1,0 +1,9 @@
+MPU-6050	Arduino Nano
+VCC	5V*
+GND	GND
+SDA	A4
+SCL	A5
+INT	Not needed
+XDA	Not needed
+XCL	Not needed
+AD0	GND
